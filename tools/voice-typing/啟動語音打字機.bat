@@ -1,2 +1,2 @@
 @echo off
-start "" "%~dp0VoiceTyperApp\VoiceTyperGlobe.exe"
+start "" "%~dp0VoiceTyperApp\VoiceTyperGroq.exe"
